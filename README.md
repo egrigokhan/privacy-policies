@@ -3,8 +3,8 @@
 <p>This repo includes Privacy Policies for apps created by Gökhan Eğri which include:</p>
 
 <ul>
-<li>Metaphoria(v1.0)</li>
-<li>Sprouts(v1.0)</li>
+<li>Metaphoria ~=v1.0</li>
+<li>Sprouts ~=v1.0</li>
 </ul>
 
 <h2>Contact Info</h2>
