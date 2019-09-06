@@ -51,7 +51,14 @@
     <li>To provide analysis or valuable information so that we can improve the Service</li>
     <li>To monitor the usage of the Service</li>
     <li>To detect, prevent and address technical issues</li>
+    <li>Analyzing trends and user traffic to the game</li>
 </ul>
+
+<h4>The third party services we use which may collect data are:</h4>
+    <ul>
+        <li>Google AdMob and Play Store, https://policies.google.com/privacy</li>
+        <li>Apple App Store, https://www.apple.com/legal/privacy/en-ww/</li>
+    </ul>
 
 <h2>Transfer Of Data</h2>
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
