@@ -1,5 +1,3 @@
-# privacy-policies
-
 <h1>Privacy Policy</h1>
 
 
@@ -102,5 +100,4 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: gokhan.egri@ug.bilkent.edu.tr</li>
-          
-        </ul>
+</ul>
