@@ -54,7 +54,7 @@
     <li>Analyzing trends and user traffic to the game</li>
 </ul>
 
-<h4>The third party services we use which may collect data are:</h4>
+<p>The third party services we use which may collect data are:</p>
     <ul>
         <li>Google AdMob and Play Store, https://policies.google.com/privacy</li>
         <li>Apple App Store, https://www.apple.com/legal/privacy/en-ww/</li>
