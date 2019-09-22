@@ -7,6 +7,7 @@
 <li>Sprouts ~=v1.0</li>
 <li>Hoop AR ~=v1.1</li>
 <li>Been There, Done That ~=v1.0</li>
+<li>Puro ~=v3.2</li>
 </ul>
 
 <h2>Contact Info</h2>
