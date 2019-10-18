@@ -2,7 +2,7 @@
 
 <p>This repo contains Privacy Policies for apps created by Gökhan Eğri which include:</p>
 
-<h3> iOS Apps
+<h3>iOS Apps</h3>
 <ul>
 <li>Metaphoria ~=v1.0</li>
 <li>Sprouts ~=v1.0</li>
@@ -11,7 +11,7 @@
 <li>Puro ~=v3.2</li>
 </ul>
   
-<h3> MacOS Apps
+<h3>MacOS Apps</h3>
 <ul>
 <li>Mosaic: AI Wallpaper Generator ~=v1.0</li>
 </ul>
