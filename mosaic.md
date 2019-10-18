@@ -1,7 +1,7 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: September 06, 2019</p>
+<p>Effective date: October 18, 2019</p>
 
 
 <p>Mosaic: AI Wallpaper Generator ("us", "we", or "our") operates the Mosaic: AI Wallpaper Generator ("Mosaic") mobile application (the "Service").</p>
