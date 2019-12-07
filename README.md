@@ -9,6 +9,7 @@
 <li>Hoop AR ~=v1.1</li>
 <li>Been There, Done That ~=v1.0</li>
 <li>Puro ~=v3.2</li>
+<li>Two of a Kind ~=v1.0</li>
 </ul>
   
 <h3>MacOS Apps</h3>
