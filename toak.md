@@ -36,7 +36,7 @@
 
 <h4>Featured Images</h4>
 
-<p>On the basis of its primary use as a celebrity similarity app, the TOAK application features <u>unlicensed</u> and <u>commercially reusable</u> images obtained from Google Images</p>
+<p>On the basis of its primary use as a celebrity similarity app, the TOAK application features <b>unlicensed</b> and <b>commercially reusable</b> images obtained from Google Images.</p>
 
 <h4>Usage Data</h4>
 
@@ -70,7 +70,7 @@
     <li>Analyzing trends and user traffic to the game</li>
 </ul>
 
-<p>The third party services we use which may collect data are:</p>
+<p>The third party services we use or plan on using in the feature which may collect data are:</p>
     <ul>
         <li>Google Firebase Services, https://firebase.google.com/support/privacy</li>
         <li>Google AdMob and Play Store, https://policies.google.com/privacy</li>
