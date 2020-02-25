@@ -1,7 +1,7 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: September 06, 2019</p>
+<p>Effective date: February 26, 2020</p>
 
 
 <p>Tempo ("us", "we", or "our") operates the Tempo mobile application (the "Service").</p>
