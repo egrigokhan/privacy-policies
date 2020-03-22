@@ -12,6 +12,7 @@
 <li>Two of a Kind ~=v1.0</li>
 <li>Colayer ~=v1.0</li>
 <li>Intract ~=v1.0</li>
+<li>Tempo: Playlists for Spotify ~=v2.1</li>
 </ul>
   
 <h3>MacOS Apps</h3>
