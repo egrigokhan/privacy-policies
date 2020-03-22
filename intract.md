@@ -6,6 +6,11 @@
 
 <p>Intract ("us", "we", or "our") operates the Intract mobile application (the "Service").</p>
 
+<h2>Denial of Liability</h2>
+<p>IT IS HEREBY NOTED THAT THE Intract PLATFORM IS CURRENTLY IN THE TESTING STAGE AND AS SUCH Intract AND ITS AFFILIATES AREN'T AND CAN NEVER BE LIABLE TO LEGAL ACTION BY USERS AND/OR OTHER THIRD PARTIES.</p>
+
+<p>THAT BEING SAID, WE AT Intract PROMISE TO ACT ON ALL ISSUES EXPERIENCED BY OUR USERS TO THE BEST OF OUR KNOWLEDGE, PROVIDED THAT ISSUES ARE REPORTED TO US (AND WE ARE CONFIRMED TO HAVE SEEN AND UNDERSTOOD THE REPORT) WITHIN THIRTY (30) DAYS OF OUR CONFIRMATION OF THE REPORT.</p>
+
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Intract is created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
