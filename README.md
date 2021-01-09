@@ -21,4 +21,4 @@
 </ul>
 
 <h2>Contact Info</h2>
-<p>For any questions regarding the privacy policies or the apps themselves, please contact <b>gokhan.egri@ug.bilkent.edu.tr</b></p>
+<p>For any questions regarding the privacy policies or the apps themselves, please contact <b>gokhanegri@alumni.bilkent.edu.tr</b></p>
