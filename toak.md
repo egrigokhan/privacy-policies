@@ -28,7 +28,7 @@
 <li>Cookies and Usage Data</li>
 </ul>
 
-<b>Users can contact us anytime at gokhan.egri@ug.bilkent.edu.tr in case of a perceived misuse of data which will be promptly dealt with.</b>
+<b>Users can contact us anytime at gokhanegri@alumni.bilkent.edu.tr in case of a perceived misuse of data which will be promptly dealt with.</b>
 
 <h4>App Related Content</h4>
 
@@ -123,5 +123,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: gokhan.egri@ug.bilkent.edu.tr</li>
+        <li>By email: gokhanegri@alumni.bilkent.edu.tr</li>
 </ul>
