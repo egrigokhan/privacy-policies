@@ -32,7 +32,7 @@
 
 <p>Your <b>full name</b>, <b>e-mail</b> and <b>a password</b> are collected from the user by BTDT upon sign-up. This data is stored on a Google Firebase Real-Time Database and are required to identify the user's account and provide user a tailored experience.</p>
 
-<b>Users can contact us anytime at gokhan.egri@ug.bilkent.edu.tr in case of a perceived misuse of data which will be promptly dealt with.</b>
+<b>Users can contact us anytime at gokhanegri@alumni.bilkent.edu.tr in case of a perceived misuse of data which will be promptly dealt with.</b>
 
 <h4>App Related Content</h4>
 
@@ -125,5 +125,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: gokhan.egri@ug.bilkent.edu.tr</li>
+        <li>By email: gokhanegri@alumni.bilkent.edu.tr</li>
 </ul>
